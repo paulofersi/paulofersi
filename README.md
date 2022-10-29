@@ -5,7 +5,7 @@
 
 - 👨🏽‍💻 I’m currently working on [BeerLendar](https://play.google.com/store/apps/details?id=com.paulofersi.beerlendar&gl=US)
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **Flutter, VueJS**
 
 - 👨‍💻 All of my projects are available at [https://paulofernandes-portfolio.netlify.app/](https://paulofernandes-portfolio.netlify.app/)
 
