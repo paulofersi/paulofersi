@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paulo Fernandes</h1>
 <h3 align="center">A passionate mobile and frontend developer from Brazil</h3>
 
+<img src="https://assets1.lottiefiles.com/packages/lf20_3rwasyjy.json" />
+
 - 👨🏽‍💻 I’m currently working on [HCollector](https://play.google.com/store/apps/details?id=com.paulofersi.collector&gl=US)
 
 - 👨🏽‍💻 I’m currently working on [BeerLendar](https://play.google.com/store/apps/details?id=com.paulofersi.beerlendar&gl=US)
