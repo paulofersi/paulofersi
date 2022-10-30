@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span>P</span>aulo Fernandes</h1>
+<h1 align="center">Hi 👋, I'm <style="color:#b3ff00">P</style>aulo Fernandes</h1>
 <h3 align="center">A passionate mobile and frontend developer from Brazil</h3>
 
 - 👨🏽‍💻 I’m currently working on [HCollector](https://play.google.com/store/apps/details?id=com.paulofersi.collector&gl=US)
